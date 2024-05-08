@@ -11,7 +11,7 @@ The dataset used in this project is `Leukemia_GSE28497.csv`, which contains gene
 The dataset includes the following columns:
 - **sample**: The sample code of the patient (used as an index for the data).
 - **type**: The type of leukemia diagnosed.
-- **Gene_nam1, Gene_name2, ..., Gene_N**: Expression levels of thousands of genes.
+- **Gene_name1, Gene_name2, ..., Gene_nameN**: Expression levels of thousands of genes.
 
 ### Dataset Class
 
