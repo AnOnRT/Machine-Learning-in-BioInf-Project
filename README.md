@@ -24,8 +24,6 @@ A Python class named `Dataset` is used to manage the dataset. This class handles
 To use the `Dataset` class, ensure you have Python installed along with the Pandas library. Here is a basic example of how to initialize the dataset and access the data:
 
 ```python
-from dataset import Dataset
-
 # Initialize the dataset
 dataset = Dataset()
 
