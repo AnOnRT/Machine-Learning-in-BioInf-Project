@@ -19,7 +19,7 @@ A Python class named `Dataset` is used to manage the dataset. This class handles
 - Encoding the `type` column using label encoding.
 - Retaining the sample code within the DataFrame without setting it as an index.
 
-#### Usage
+#### Usage outside the scope of the project
 
 To use the `Dataset` class, ensure you have Python installed along with the Pandas library. Here is a basic example of how to initialize the dataset and access the data:
 
